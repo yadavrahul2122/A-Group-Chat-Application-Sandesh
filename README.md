@@ -18,3 +18,10 @@ In the client-server architecture, when the client computer sends a request for 
 - Hard Disk: 5 GB​
 
 - RAM: 128 MB
+
+## Software Requirement
+- Technologies: Core Java.
+
+- Operating System: Windows 7 and above
+
+- Application: Command Prompt
